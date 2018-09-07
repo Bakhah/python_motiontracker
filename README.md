@@ -1,6 +1,3 @@
-# Utilisation
+# Simple Motion tracker with cv2 and Python
 
-Lancer motion_detector
-
-'c' pour calibrer la frame de référence
-'q' pour quitter
+'c' to calibrate, 'q' to exit.
